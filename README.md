@@ -1,4 +1,4 @@
-# 🌿 EcoMemory - Preservação Digital da Fauna Brasileira
+# 🌿 EcoSave - Preservação Digital da Fauna Brasileira
 
 Um jogo da memória revolucionário com tema disruptivo e futurista, focado na conscientização ambiental e preservação da fauna brasileira através da tecnologia.
 
